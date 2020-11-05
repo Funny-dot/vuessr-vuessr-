@@ -7,7 +7,7 @@
 # 重要代码路径
     修改 /src/store/index.js 获取数据代码
 # vue中调用 store/index.js 
-    ```<template>
+    <template>
            <div class="bar">
                <h2>异步Ajax数据：</h2>
                <span>{{ goods }}</span>
@@ -45,4 +45,3 @@
        
        <style>
        </style>
-```
